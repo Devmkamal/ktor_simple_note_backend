@@ -1,0 +1,5 @@
+kotlin ktor backend for simple note app
+contains feature 
+- auth 
+- add note 
+- list notes 
